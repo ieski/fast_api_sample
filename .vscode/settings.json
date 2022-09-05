@@ -1,7 +1,0 @@
-{
-    "editor.fontFamily": "Fira Code Retina",
-    "editor.fontWeight": "500",
-    "editor.fontLigatures": true,
-    "editor.fontSize": 16,
-    "python.formatting.provider": "black"
-}
