@@ -33,7 +33,7 @@ select = ["B", "C", "E", "F", "W", "T4", "B9"]
 
 [tool.black]
 line-length = 79
-arget-version = ['py37', 'py38', 'py39']
+arget-version = ['py39']
 include = '\.pyi?$'
 exclude = '''
 /(
