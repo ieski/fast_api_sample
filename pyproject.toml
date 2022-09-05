@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "api-gateway"
+version = "0.1.0"
+description = ""
+authors = ["ismail eski <ismaileski@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+uvicorn = "^0.18.3"
+fastapi = "^0.82.0"
+pydantic = "^1.10.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
