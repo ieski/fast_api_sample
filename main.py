@@ -14,7 +14,7 @@ app = FastAPI(
     version="0.0.1",
     terms_of_service="https://github.com/ieski",
     contact={
-        "name": "ismail eski",
+        "name": "İsmail Eski",
         "url": "https://github.com/ieski",
         "email": "ismaileski@gmail.com",
     },
